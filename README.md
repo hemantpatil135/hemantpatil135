@@ -1,29 +1,25 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Hemant%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20|%20React.js%20|%20TypeScript%20|%20Available%20for%20Freelance&descAlignY=60"/>
+
 # 👋 Hi, I'm Hemant Patil
 
-### 🚀 Senior Frontend Engineer | React.js | TypeScript | Redux Toolkit
+### Senior Frontend Engineer • React.js • TypeScript • Redux Toolkit
 
-<p align="center">
-Building scalable enterprise applications with clean architecture, reusable components, and exceptional user experiences.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React.js+Developer;TypeScript+Expert;Building+Enterprise+Applications;Open+For+Freelance"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React.js+Developer;TypeScript+Expert;Redux+Toolkit+Specialist;Available+for+Freelance" />
-</p>
-
-<p align="center">
+<p>
 
 <a href="mailto:patilhemantsing@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/hemant-patil-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/hemantpatil135">
-<img src="https://img.shields.io/github/followers/hemantpatil135?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/hemantpatil135?style=for-the-badge"/>
 </a>
 
 </p>
@@ -32,169 +28,99 @@ Building scalable enterprise applications with clean architecture, reusable comp
 
 ---
 
-# 💼 About Me
+# 💎 About Me
 
-I'm a **Senior Frontend Engineer** with **4.5+ years of experience** building enterprise-grade applications using modern JavaScript technologies.
+I'm a passionate **Senior Frontend Engineer** with **4.5+ years** of experience building enterprise web applications.
 
-I specialize in designing scalable frontend architectures, creating reusable UI systems, integrating REST APIs, and delivering high-performance user experiences.
+I specialize in creating scalable React applications using modern frontend architecture and clean engineering practices.
 
-Currently working on enterprise applications while helping businesses build fast, responsive, and maintainable web products.
+### I love building
 
----
+🚀 Enterprise Applications
 
-# 🚀 What I Offer
+⚡ High Performance UI
 
-✔ Enterprise React Development
+🎯 React Dashboards
 
-✔ Dashboard Development
+📱 Responsive Web Apps
 
-✔ SaaS Applications
+🔐 Authentication Systems
 
-✔ REST API Integration
+📊 Admin Panels
 
-✔ Authentication & Authorization
-
-✔ Performance Optimization
-
-✔ Responsive UI Development
-
-✔ Code Refactoring
-
-✔ Frontend Architecture
-
-✔ Component Libraries
-
-✔ Bug Fixing
-
-✔ Freelance Consulting
+🎨 Design Systems
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass"/>
-
-</p>
-
-## Backend Integration
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,materialui,bootstrap,sass,git,github,vscode,docker,firebase"/>
 
 </p>
 
 ---
 
-# 🏆 Professional Highlights
+# 🚀 What I Can Build
 
-✅ 4.5+ Years Experience
+<table>
 
-✅ React.js Specialist
+<tr>
 
-✅ Enterprise Web Applications
+<td width="50%">
 
-✅ TypeScript Expert
+## Frontend
 
-✅ Redux Toolkit
+- React.js
+- TypeScript
+- Redux Toolkit
+- Next.js
+- Material UI
+- Tailwind CSS
 
-✅ Material UI
+</td>
 
-✅ Tailwind CSS
+<td width="50%">
 
-✅ REST APIs
+## Backend
 
-✅ Micro Frontend
+- REST APIs
+- Node.js
+- Express
+- MongoDB
+- MySQL
+- Authentication
 
-✅ Team Leadership
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🌍 Enterprise Experience
 
-### 🏦 American Express
+🏦 American Express
 
-Travel Booking Platform
+📚 Pearson
 
-- Hotel Cancellation
-- Refund Workflow
-- Redux Saga
+🏦 Axis Bank
 
----
+💹 Yes Securities
 
-### 📚 Pearson
-
-Console+
-
-- Dynamic Course Creation
-- TypeScript
-- Redux Toolkit
+🎓 Interstride
 
 ---
 
-### 🏦 Axis Bank
-
-Banking Portal
-
-- Responsive UI
-- Enterprise Components
-
----
-
-### 💹 Yes Securities
-
-Enterprise Dashboard
-
-- Micro Frontend
-- Material UI
-
----
-
-### 🎓 Interstride
-
-Student Portal
-
-Admin Portal
-
-Reusable Component Architecture
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemantpatil135&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemantpatil135&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpatil135&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpatil135&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -204,106 +130,111 @@ Reusable Component Architecture
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=hemantpatil135&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=hemantpatil135&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# ⚡ Current Focus
 
-### Enterprise Admin Dashboard
+✔ Building Enterprise React Applications
 
-React + TypeScript + Redux Toolkit
+✔ Frontend Performance Optimization
 
----
+✔ TypeScript Best Practices
 
-### Authentication System
+✔ System Design
 
-JWT
+✔ AWS
 
-Role Based Access
-
-Protected Routes
+✔ Docker
 
 ---
 
-### React Component Library
+# 🏆 Services
 
-Reusable Components
+✅ React Development
 
-Storybook Ready
-
----
-
-### Performance Optimization Examples
-
-Lazy Loading
-
-Memoization
-
-Virtualization
-
----
-
-### React Machine Coding
-
-Real Interview Problems
-
----
-
-# 📚 Currently Learning
-
-System Design
-
-Docker
-
-AWS
-
-CI/CD
-
-Advanced React Patterns
-
----
-
-# 💻 Available For
-
-✅ Freelance Projects
-
-✅ Frontend Development
-
-✅ React Consulting
-
-✅ Enterprise UI
+✅ Frontend Consulting
 
 ✅ Dashboard Development
 
+✅ API Integration
+
 ✅ SaaS Products
 
-✅ Startup MVPs
+✅ Bug Fixing
+
+✅ UI Performance Optimization
+
+✅ Code Reviews
 
 ---
 
-# 📬 Contact
+# 🚀 Featured Projects
 
-📧 **Email**
+| Project | Tech |
+|----------|------|
+| Enterprise Admin Dashboard | React + TypeScript |
+| Student Management Portal | React + Redux Toolkit |
+| Authentication System | JWT + RBAC |
+| React Component Library | TypeScript |
+| Machine Coding Challenges | React |
+| Performance Optimization | React |
 
-patilhemantsing@gmail.com
+---
 
-💼 **LinkedIn**
+# 📊 Activity Graph
 
-https://linkedin.com/in/hemant-patil-dev
+<p align="center">
 
-🌐 **Portfolio**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantpatil135&theme=tokyo-night&hide_border=true"/>
 
-Coming Soon...
+</p>
+
+---
+
+# 🏅 Achievements
+
+🏆 4.5+ Years Experience
+
+🚀 Enterprise Frontend Engineer
+
+👨‍💻 Team Leader Experience
+
+⚡ React Specialist
+
+💼 Open For Freelance
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:patilhemantsing@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://linkedin.com/in/hemant-patil-dev">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-# ⭐ Thanks for visiting my profile!
+# ⭐ Thanks for visiting!
 
 ### Let's build something amazing together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0F172A"/>
 
 </div>
