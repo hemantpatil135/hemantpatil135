@@ -131,29 +131,17 @@ I specialize in creating scalable React applications using modern frontend archi
 
 ---
 
-# 🔥 GitHub Streak
+📊 GitHub Analytics
 
-<p align="center">
+┌─────────────────────┐  ┌─────────────────────┐
+│ Total Contributions │  │ Top Languages       │
+│ Commits             │  │ TypeScript           │
+│ PRs                 │  │ JavaScript           │
+│ Repositories        │  │ React                │
+└─────────────────────┘  └─────────────────────┘
 
-<img src="https://streak-stats.demolab.com?user=hemantpatil135&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# ⚡ Current Focus
-
-✔ Building Enterprise React Applications
-
-✔ Frontend Performance Optimization
-
-✔ TypeScript Best Practices
-
-✔ System Design
-
-✔ AWS
-
-✔ Docker
+🔥 Contribution Streak
+████████████████████████████
 
 ---
 
