@@ -114,14 +114,19 @@ I specialize in creating scalable React applications using modern frontend archi
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemantpatil135&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpatil135&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hemantpatil135&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Hemant Patil's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpatil135&layout=compact&hide_border=true&langs_count=8"
+    alt="Hemant Patil's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
