@@ -1,233 +1,62 @@
-<div align="center">
+# Hi, I'm Hemant 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=Hemant%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20|%20React.js%20|%20TypeScript%20|%20Available%20for%20Freelance&descAlignY=60"/>
+**Software Engineer, frontend-focused.** I build scalable, fast web applications with React, Next.js and TypeScript.
 
-# 👋 Hi, I'm Hemant Patil
+📍 Pune, India · ~5 years · open to full-time roles and selected contract work
 
-### Senior Frontend Engineer • React.js • TypeScript • Redux Toolkit
+For about five years I've built production frontends for enterprise products, including American Express, Pearson, Axis Bank and YES Securities. Most of my work starts at the foundation: folder structure, a shared API layer, the auth and role-based access pattern, and state management. From there I tune performance until it shows up in Lighthouse and Core Web Vitals. I was promoted to Team Leader at Koli Infotech and led a team of 6 developers.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React.js+Developer;TypeScript+Expert;Building+Enterprise+Applications;Open+For+Freelance"/>
+---
+
+### 🧭 Recent work
+
+**Interstride** · Frontend Developer · Jun 2025 – Sep 2026
+- Set up the folder structure, shared API layer, auth pattern and Redux Toolkit state layer for 4 role-based portals used by 550+ universities and 7 user roles.
+- Made the Student Portal ~40% faster for 250,000+ students with route-level lazy loading, fewer re-renders and a smaller bundle.
+- Cut redundant API calls by ~55% and made search and filter ~45% faster with debounced search, sorting and pagination.
+
+**iauro Systems** · Software Engineer · client: YES Securities · Feb – May 2025
+- Built independently deployable modules on a React micro-frontend architecture, plus a Material UI component library documented in Storybook.
+
+**Koli Infotech** · React.js Developer → Team Leader · Nov 2021 – Feb 2025
+- Led 6 remote developers across enterprise engagements for American Express, Pearson and Axis Bank.
+- American Express: built the hotel cancellation and refund modules with Redux Saga, with 100% Jest coverage on every feature I owned.
+
+<sub>Client and employer code is under NDA and isn't on GitHub. The repos below are my own.</sub>
+
+---
+
+### 🛠️ What I work with
 
 <p>
-
-<a href="mailto:patilhemantsing@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/hemant-patil-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/hemantpatil135">
-<img src="https://img.shields.io/github/followers/hemantpatil135?style=for-the-badge"/>
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,materialui,tailwind,jest,githubactions,mongodb,mysql&theme=dark&perline=12" />
+    <img alt="React, Next.js, TypeScript, JavaScript, Redux, Node.js, Material UI, Tailwind CSS, Jest, GitHub Actions, MongoDB, MySQL" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,materialui,tailwind,jest,githubactions,mongodb,mysql&theme=light&perline=12" />
+  </picture>
 </p>
 
-</div>
+- **Frontend:** React, Next.js (App Router), TypeScript, Redux Toolkit / Saga, Context API, micro frontends, Storybook
+- **Performance:** code splitting, lazy loading, render optimization, bundle size, Lighthouse and Core Web Vitals
+- **Quality and delivery:** Jest, code review, CI/CD with GitHub Actions, Jenkins, GitLab CI and Bitbucket Pipelines
+- **Backend and data:** Node.js, REST APIs, MySQL, MongoDB
 
 ---
 
-# 💎 About Me
+### 📌 Featured repositories
 
-I'm a passionate **Senior Frontend Engineer** with **4.5+ years** of experience building enterprise web applications.
-
-I specialize in creating scalable React applications using modern frontend architecture and clean engineering practices.
-
-### I love building
-
-🚀 Enterprise Applications
-
-⚡ High Performance UI
-
-🎯 React Dashboards
-
-📱 Responsive Web Apps
-
-🔐 Authentication Systems
-
-📊 Admin Panels
-
-🎨 Design Systems
+| Repository | What it shows |
+|---|---|
+| [**hemant-portfolio**](https://github.com/hemantpatil135/hemant-portfolio) · [live](https://hemantpatil.vercel.app) | My portfolio: Next.js 15 App Router, React 19 and TypeScript. Includes a dynamic Open Graph image, JSON-LD, a sitemap, a validated contact API route and lazy-loaded 3D scenes that respect `prefers-reduced-motion`. |
+| [**multi-step-form**](https://github.com/hemantpatil135/multi-step-form) | A three-step form with per-field validation, a mock API built on MSW and routing with React Router. Vite, Tailwind, ESLint and Prettier. |
+| [**student-management-app**](https://github.com/hemantpatil135/student-management-app) | A CRUD app on Material UI and MUI X DataGrid, with forms built on React Hook Form and Yup and a set of reusable form controls. |
+| [**react-big-calendar**](https://github.com/hemantpatil135/react-big-calendar) | A machine-coding exercise: React Big Calendar with Chart.js drill-down dialogs. |
 
 ---
 
-# 🛠 Tech Stack
+### 🤝 Collaboration
 
-<p align="center">
+I'm most useful on React and Next.js performance, frontend architecture (API layers, auth and role-based access, state) and reusable TypeScript components. If you maintain a project in that space and could use help, open an issue or get in touch.
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,materialui,bootstrap,sass,git,github,vscode,docker,firebase"/>
+### 📫 Contact
 
-</p>
-
----
-
-# 🚀 What I Can Build
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Frontend
-
-- React.js
-- TypeScript
-- Redux Toolkit
-- Next.js
-- Material UI
-- Tailwind CSS
-
-</td>
-
-<td width="50%">
-
-## Backend
-
-- REST APIs
-- Node.js
-- Express
-- MongoDB
-- MySQL
-- Authentication
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌍 Enterprise Experience
-
-🏦 American Express
-
-📚 Pearson
-
-🏦 Axis Bank
-
-💹 Yes Securities
-
-🎓 Interstride
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hemantpatil135&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Hemant Patil's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantpatil135&layout=compact&hide_border=true&langs_count=8"
-    alt="Hemant Patil's Top Languages"
-    height="180"
-  />
-</p>
-
----
-
-📊 GitHub Analytics
-
-┌─────────────────────┐  ┌─────────────────────┐
-│ Total Contributions │  │ Top Languages       │
-│ Commits             │  │ TypeScript           │
-│ PRs                 │  │ JavaScript           │
-│ Repositories        │  │ React                │
-└─────────────────────┘  └─────────────────────┘
-
-🔥 Contribution Streak
-████████████████████████████
-
----
-
-# 🏆 Services
-
-✅ React Development
-
-✅ Frontend Consulting
-
-✅ Dashboard Development
-
-✅ API Integration
-
-✅ SaaS Products
-
-✅ Bug Fixing
-
-✅ UI Performance Optimization
-
-✅ Code Reviews
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech |
-|----------|------|
-| Enterprise Admin Dashboard | React + TypeScript |
-| Student Management Portal | React + Redux Toolkit |
-| Authentication System | JWT + RBAC |
-| React Component Library | TypeScript |
-| Machine Coding Challenges | React |
-| Performance Optimization | React |
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantpatil135&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 Achievements
-
-🏆 4.5+ Years Experience
-
-🚀 Enterprise Frontend Engineer
-
-👨‍💻 Team Leader Experience
-
-⚡ React Specialist
-
-💼 Open For Freelance
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:patilhemantsing@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://linkedin.com/in/hemant-patil-dev">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-# ⭐ Thanks for visiting!
-
-### Let's build something amazing together 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0F172A"/>
-
-</div>
+[Portfolio](https://hemantpatil.vercel.app) · [LinkedIn](https://www.linkedin.com/in/hemantpatil135/) · [Email](mailto:patilhemantsing@gmail.com) · [Résumé (PDF)](https://hemantpatil.vercel.app/Hemant_Patil_Resume.pdf)
