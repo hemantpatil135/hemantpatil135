@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="presentation">
+  <defs><linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" x2="1200" y1="0" y2="0"><stop offset="0" stop-color="#0891b2"/><stop offset=".6" stop-color="#7c3aed"/><stop offset="1" stop-color="#db2777"/></linearGradient><linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" x2="1200"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="24"><rect width="1200" height="24" fill="url(#fade)"/></mask></defs>
+  <style>.flow{stroke-dasharray:6 10;animation:flow 3s linear infinite}@keyframes flow{to{stroke-dashoffset:-160}}
+  .dot{animation:run 6s ease-in-out infinite alternate}@keyframes run{from{transform:translateX(-420px)}to{transform:translateX(420px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;transform:none!important;stroke-dashoffset:0!important}}</style>
+  <g mask="url(#m)"><line class="flow" x1="0" x2="1200" y1="12" y2="12" stroke="url(#gl)" stroke-width="2" stroke-linecap="round"/></g>
+  <g class="dot"><circle cx="600" cy="12" r="4" fill="#0891b2"/><circle cx="600" cy="12" r="9" fill="#0891b2" opacity=".2"/></g>
+</svg>
