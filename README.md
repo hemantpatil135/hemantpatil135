@@ -12,11 +12,24 @@
   <a href="https://hemantpatil.vercel.app/Hemant_Patil_Resume.pdf"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-db2777?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="#impact">⚡ Impact</a> &nbsp;·&nbsp;
+  <a href="#experience">🧭 Experience</a> &nbsp;·&nbsp;
+  <a href="#architecture">🏗️ Architecture</a> &nbsp;·&nbsp;
+  <a href="#stack">🛠️ Stack</a> &nbsp;·&nbsp;
+  <a href="#projects">📌 Projects</a> &nbsp;·&nbsp;
+  <a href="#activity">🐍 Activity</a> &nbsp;·&nbsp;
+  <a href="#contact">🤝 Contact</a>
+</p>
+
 > [!TIP]
 > **Open to work:** full-time Software Engineer roles and selected contract work. The fastest way to reach me is [email](mailto:patilhemantsing@gmail.com).
 
 For about five years I've built production frontends for enterprise products, including **American Express, Pearson, Axis Bank and YES Securities**. Most of my work starts at the foundation: folder structure, a shared API layer, the auth and role-based access pattern, and state management. From there I tune performance until it shows up in Lighthouse and Core Web Vitals. I was promoted to Team Leader at Koli Infotech and led a team of 6 developers.
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
+
+<a id="impact"></a>
 ## ⚡ Impact
 
 <picture>
@@ -24,11 +37,16 @@ For about five years I've built production frontends for enterprise products, in
   <img alt="~40% faster Student Portal; 250K+ students served; ~55% fewer redundant API calls; ~45% faster search and filter; 100% Jest coverage on Amex features; 6 developers led" src="./assets/impact-light.svg" width="100%" />
 </picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
+
+<a id="experience"></a>
 ## 🧭 Experience
 
-<sub>Click a role to expand it.</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg" /><img alt="Career timeline: Koli Infotech (Nov 2021 – Feb 2025, React.js Developer to Team Leader), iauro Systems (Feb – May 2025, Software Engineer), Interstride (Jun 2025 – Sep 2026, Frontend Developer)" src="./assets/timeline-light.svg" width="100%" /></picture>
 
-<details open>
+<sub>▾ Click a role for the full story.</sub>
+
+<details>
 <summary><b>Interstride</b> · Frontend Developer · <i>Jun 2025 – Sep 2026</i></summary>
 <br />
 
@@ -60,10 +78,13 @@ For about five years I've built production frontends for enterprise products, in
 
 <sub>Client and employer code is under NDA and isn't on GitHub. The repos below are my own.</sub>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
+
+<a id="architecture"></a>
 ## 🏗️ How I structure a frontend
 
 <details>
-<summary>The pattern I set up on most projects (click to view the diagram)</summary>
+<summary><b>▸ Click to open the diagram</b> — the pattern I set up on most projects</summary>
 <br />
 
 ```mermaid
@@ -83,74 +104,39 @@ flowchart LR
 
 </details>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
+
+<a id="stack"></a>
 ## 🛠️ Tech stack
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,materialui,tailwind,jest,githubactions,mongodb,mysql&theme=dark&perline=12" />
     <img alt="React, Next.js, TypeScript, JavaScript, Redux, Node.js, Material UI, Tailwind CSS, Jest, GitHub Actions, MongoDB, MySQL" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,nodejs,materialui,tailwind,jest,githubactions,mongodb,mysql&theme=light&perline=12" />
   </picture>
 </p>
 
-| Area | What I use |
-|---|---|
-| **Frontend** | React, Next.js (App Router), TypeScript, Redux Toolkit / Saga, Context API, micro frontends, Storybook |
-| **Performance** | Code splitting, lazy loading, render optimization, bundle size, Lighthouse and Core Web Vitals |
-| **Quality and delivery** | Jest, code review, CI/CD with GitHub Actions, Jenkins, GitLab CI and Bitbucket Pipelines |
-| **Backend and data** | Node.js, REST APIs, MySQL, MongoDB |
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" /><img alt="Tech stack. Frontend: React, Next.js, TypeScript, Redux Toolkit, Redux Saga, micro frontends, Context API. UI: Material UI, Tailwind CSS, Storybook, React Hook Form, Yup, Chart.js. Performance: code splitting, lazy loading, render optimization, bundle size, Lighthouse, Core Web Vitals. Quality: Jest, code review, GitHub Actions, Jenkins, GitLab CI, Bitbucket. Backend: Node.js, REST APIs, MySQL, MongoDB, MSW" src="./assets/stack-light.svg" width="100%" /></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
+
+<a id="projects"></a>
 ## 📌 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://hemantpatil.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-portfolio-dark.svg" /><img alt="hemant-portfolio — live portfolio on Next.js 15, React 19 and TypeScript" src="./assets/project-portfolio-light.svg" width="49%" /></picture></a>
+  <a href="https://github.com/hemantpatil135/multi-step-form"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-multi-step-form-dark.svg" /><img alt="multi-step-form — validated three-step form with an MSW mock API" src="./assets/project-multi-step-form-light.svg" width="49%" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hemantpatil135/student-management-app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-student-management-dark.svg" /><img alt="student-management-app — CRUD on MUI DataGrid with React Hook Form and Yup" src="./assets/project-student-management-light.svg" width="49%" /></picture></a>
+  <a href="https://github.com/hemantpatil135/react-big-calendar"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-big-calendar-dark.svg" /><img alt="react-big-calendar — React Big Calendar with Chart.js drill-downs" src="./assets/project-big-calendar-light.svg" width="49%" /></picture></a>
+</p>
 
-### [hemant-portfolio](https://github.com/hemantpatil135/hemant-portfolio)
-[**▶ Live site**](https://hemantpatil.vercel.app)
+<sub>Click a card to open it. Portfolio source: <a href="https://github.com/hemantpatil135/hemant-portfolio">hemant-portfolio</a>.</sub>
 
-My portfolio. Includes a dynamic Open Graph image, JSON-LD, a sitemap, a validated contact API route and lazy-loaded 3D scenes that respect `prefers-reduced-motion`.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
 
-![Next.js](https://img.shields.io/badge/Next.js_15-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232a?logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [multi-step-form](https://github.com/hemantpatil135/multi-step-form)
-
-A three-step form with per-field validation, a mock API built on MSW and routing with React Router.
-
-![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?logo=tailwindcss&logoColor=38bdf8)
-![MSW](https://img.shields.io/badge/MSW-ff6a33?logo=mockserviceworker&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [student-management-app](https://github.com/hemantpatil135/student-management-app)
-
-A CRUD app on Material UI and MUI X DataGrid, with forms built on React Hook Form and Yup and a set of reusable form controls.
-
-![MUI](https://img.shields.io/badge/MUI-007fff?logo=mui&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-ec5990?logo=reacthookform&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [react-big-calendar](https://github.com/hemantpatil135/react-big-calendar)
-
-A machine-coding exercise: React Big Calendar with Chart.js drill-down dialogs.
-
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
-![Chart.js](https://img.shields.io/badge/Chart.js-ff6384?logo=chartdotjs&logoColor=white)
-
-</td>
-</tr>
-</table>
-
+<a id="activity"></a>
 ## 🐍 Contribution activity
 
 <picture>
@@ -160,15 +146,21 @@ A machine-coding exercise: React Big Calendar with Chart.js drill-down dialogs.
 
 <sub>Regenerated daily by a GitHub Action.</sub>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><img alt="" src="./assets/divider-light.svg" width="100%" /></picture>
+
+<a id="contact"></a>
 ## 🤝 Let's work together
 
 I'm most useful on **React and Next.js performance**, **frontend architecture** (API layers, auth and role-based access, state) and **reusable TypeScript components**. If you're hiring, or you maintain a project in that space and could use help, open an issue or get in touch.
 
+<a href="mailto:patilhemantsing@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" /><img alt="Let's build something fast. Email Hemant." src="./assets/footer-light.svg" width="100%" /></picture></a>
+
 <p align="center">
-  <a href="https://hemantpatil.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hemantpatil135/">LinkedIn</a> ·
-  <a href="mailto:patilhemantsing@gmail.com">Email</a> ·
-  <a href="https://hemantpatil.vercel.app/Hemant_Patil_Resume.pdf">Résumé (PDF)</a>
+  <a href="https://hemantpatil.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0891b2?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemantpatil135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patilhemantsing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-7c3aed?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://hemantpatil.vercel.app/Hemant_Patil_Resume.pdf"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-db2777?style=flat-square&logo=readdotcv&logoColor=white" /></a>
+  <a href="#top"><img alt="Back to top" src="https://img.shields.io/badge/↑_Back_to_top-30363d?style=flat-square" /></a>
 </p>
 
 <!-- Animated SVGs in ./assets are generated by scripts/build-assets.mjs (node scripts/build-assets.mjs). -->

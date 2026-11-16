@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
+  <title id="t">Let's build something fast together — hemantpatil.vercel.app</title>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0891b2"/><stop offset=".6" stop-color="#7c3aed"/><stop offset="1" stop-color="#db2777"/></linearGradient><clipPath id="c"><rect width="1200" height="220" rx="18"/></clipPath></defs>
+  <style>
+    .w1{animation:slide 9s linear infinite}.w2{animation:slide 14s linear infinite reverse}
+    @keyframes slide{to{transform:translateX(-1200px)}}
+    .in{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) .2s forwards}
+    @keyframes up{from{opacity:0;translate:0 12px}to{opacity:1;translate:0 0}}
+    .wave-hand{transform-box:fill-box;transform-origin:70% 80%;animation:hand 2.4s ease-in-out infinite}
+    @keyframes hand{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(14deg)}20%,40%{transform:rotate(-8deg)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;transform:none!important;stroke-dashoffset:0!important}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="220" fill="#f6f8fa"/>
+    <path class="w2" d="M0 220 L0 204.4 L20 205.4 L40 205.9 L60 206.0 L80 205.6 L100 204.9 L120 203.7 L140 202.3 L160 200.5 L180 198.5 L200 196.5 L220 194.4 L240 192.4 L260 190.5 L280 188.9 L300 187.6 L320 186.6 L340 186.1 L360 186.0 L380 186.4 L400 187.1 L420 188.3 L440 189.7 L460 191.5 L480 193.5 L500 195.5 L520 197.6 L540 199.6 L560 201.5 L580 203.1 L600 204.4 L620 205.4 L640 205.9 L660 206.0 L680 205.6 L700 204.9 L720 203.7 L740 202.3 L760 200.5 L780 198.5 L800 196.5 L820 194.4 L840 192.4 L860 190.5 L880 188.9 L900 187.6 L920 186.6 L940 186.1 L960 186.0 L980 186.4 L1000 187.1 L1020 188.3 L1040 189.7 L1060 191.5 L1080 193.5 L1100 195.5 L1120 197.6 L1140 199.6 L1160 201.5 L1180 203.1 L1200 204.4 L1220 205.4 L1240 205.9 L1260 206.0 L1280 205.6 L1300 204.9 L1320 203.7 L1340 202.3 L1360 200.5 L1380 198.5 L1400 196.5 L1420 194.4 L1440 192.4 L1460 190.5 L1480 188.9 L1500 187.6 L1520 186.6 L1540 186.1 L1560 186.0 L1580 186.4 L1600 187.1 L1620 188.3 L1640 189.7 L1660 191.5 L1680 193.5 L1700 195.5 L1720 197.6 L1740 199.6 L1760 201.5 L1780 203.1 L1800 204.4 L1820 205.4 L1840 205.9 L1860 206.0 L1880 205.6 L1900 204.9 L1920 203.7 L1940 202.3 L1960 200.5 L1980 198.5 L2000 196.5 L2020 194.4 L2040 192.4 L2060 190.5 L2080 188.9 L2100 187.6 L2120 186.6 L2140 186.1 L2160 186.0 L2180 186.4 L2200 187.1 L2220 188.3 L2240 189.7 L2260 191.5 L2280 193.5 L2300 195.5 L2320 197.6 L2340 199.6 L2360 201.5 L2380 203.1 L2400 204.4 L2400 220 Z" fill="#7c3aed" opacity=".12"/>
+    <path class="w1" d="M0 220 L0 196.0 L20 197.7 L40 199.3 L60 200.7 L80 201.9 L100 202.9 L120 203.6 L140 204.0 L160 204.0 L180 203.6 L200 202.9 L220 201.9 L240 200.7 L260 199.3 L280 197.7 L300 196.0 L320 194.3 L340 192.7 L360 191.3 L380 190.1 L400 189.1 L420 188.4 L440 188.0 L460 188.0 L480 188.4 L500 189.1 L520 190.1 L540 191.3 L560 192.7 L580 194.3 L600 196.0 L620 197.7 L640 199.3 L660 200.7 L680 201.9 L700 202.9 L720 203.6 L740 204.0 L760 204.0 L780 203.6 L800 202.9 L820 201.9 L840 200.7 L860 199.3 L880 197.7 L900 196.0 L920 194.3 L940 192.7 L960 191.3 L980 190.1 L1000 189.1 L1020 188.4 L1040 188.0 L1060 188.0 L1080 188.4 L1100 189.1 L1120 190.1 L1140 191.3 L1160 192.7 L1180 194.3 L1200 196.0 L1220 197.7 L1240 199.3 L1260 200.7 L1280 201.9 L1300 202.9 L1320 203.6 L1340 204.0 L1360 204.0 L1380 203.6 L1400 202.9 L1420 201.9 L1440 200.7 L1460 199.3 L1480 197.7 L1500 196.0 L1520 194.3 L1540 192.7 L1560 191.3 L1580 190.1 L1600 189.1 L1620 188.4 L1640 188.0 L1660 188.0 L1680 188.4 L1700 189.1 L1720 190.1 L1740 191.3 L1760 192.7 L1780 194.3 L1800 196.0 L1820 197.7 L1840 199.3 L1860 200.7 L1880 201.9 L1900 202.9 L1920 203.6 L1940 204.0 L1960 204.0 L1980 203.6 L2000 202.9 L2020 201.9 L2040 200.7 L2060 199.3 L2080 197.7 L2100 196.0 L2120 194.3 L2140 192.7 L2160 191.3 L2180 190.1 L2200 189.1 L2220 188.4 L2240 188.0 L2260 188.0 L2280 188.4 L2300 189.1 L2320 190.1 L2340 191.3 L2360 192.7 L2380 194.3 L2400 196.0 L2400 220 Z" fill="#0891b2" opacity=".14"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="219" rx="18" fill="none" stroke="#d0d7de"/>
+  <g class="in" text-anchor="middle">
+    <text x="600" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" fill="url(#g)">Let's build something fast.</text>
+    <text x="600" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#57606a">Hiring for frontend, or need a React / Next.js performance pass? Let's talk.</text>
+    <text class="wave-hand" x="310" y="82" font-size="34">👋</text>
+    <text x="600" y="152" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#1f2328">hemantpatil.vercel.app  ·  linkedin.com/in/hemantpatil135</text>
+  </g>
+</svg>

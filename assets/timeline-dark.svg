@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="t d">
+  <title id="t">Career timeline</title><desc id="d">Koli Infotech, React.js Developer → Team Leader, Nov 2021 – Feb 2025; iauro Systems, Software Engineer, Feb – May 2025; Interstride, Frontend Developer, Jun 2025 – Sep 2026</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".6" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" x2="1200" y1="0" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".6" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+  <style>
+    .track{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 2.2s cubic-bezier(.6,0,.2,1) .2s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .pop{opacity:0;animation:fade .5s ease-out forwards}
+    .card{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}
+    @keyframes fade{to{opacity:1}}
+    @keyframes up{from{opacity:0;translate:0 14px}to{opacity:1;translate:0 0}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+    @keyframes ping{from{transform:scale(.8);opacity:.9}to{transform:scale(2.2);opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;transform:none!important;stroke-dashoffset:0!important}}
+  </style>
+  <line x1="60" x2="1140" y1="70" y2="70" stroke="#21262d" stroke-width="3" stroke-linecap="round"/>
+  <line class="track" x1="60" x2="1140" y1="70" y2="70" stroke="url(#gl)" stroke-width="3" stroke-linecap="round"/>
+  
+  <g class="pop" style="animation-delay:0.5s">
+    
+    <circle cx="200" cy="70" r="11" fill="#0d1117" stroke="url(#g)" stroke-width="3"/>
+    <circle cx="200" cy="70" r="4.5" fill="#a78bfa"/>
+    <text x="200" y="42" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b949e">Nov 2021 – Feb 2025</text>
+  </g>
+  <g class="card" style="animation-delay:0.7s">
+    <rect x="20" y="104" width="360" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+    <path d="M192 104.5 L200 95 L208 104.5" fill="#161b22" stroke="#30363d"/>
+    <rect x="193" y="103" width="14" height="3" fill="#161b22"/>
+    <text x="44" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#e6edf3">Koli Infotech</text>
+    
+    <text x="44" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="url(#g)">React.js Developer → Team Leader</text>
+    <text x="44" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e"><tspan fill="#22d3ee">▸</tspan> American Express · Pearson · Axis Bank</text><text x="44" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e"><tspan fill="#22d3ee">▸</tspan> Led 6 developers</text>
+  </g>
+  <g class="pop" style="animation-delay:1.1s">
+    
+    <circle cx="600" cy="70" r="11" fill="#0d1117" stroke="url(#g)" stroke-width="3"/>
+    <circle cx="600" cy="70" r="4.5" fill="#a78bfa"/>
+    <text x="600" y="42" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b949e">Feb – May 2025</text>
+  </g>
+  <g class="card" style="animation-delay:1.3s">
+    <rect x="420" y="104" width="360" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+    <path d="M592 104.5 L600 95 L608 104.5" fill="#161b22" stroke="#30363d"/>
+    <rect x="593" y="103" width="14" height="3" fill="#161b22"/>
+    <text x="444" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#e6edf3">iauro Systems</text>
+    
+    <text x="444" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="url(#g)">Software Engineer</text>
+    <text x="444" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e"><tspan fill="#22d3ee">▸</tspan> YES Securities micro frontends</text><text x="444" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e"><tspan fill="#22d3ee">▸</tspan> MUI library in Storybook</text>
+  </g>
+  <g class="pop" style="animation-delay:1.7s">
+    <circle class="pulse" cx="1000" cy="70" r="14" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="1000" cy="70" r="11" fill="#0d1117" stroke="url(#g)" stroke-width="3"/>
+    <circle cx="1000" cy="70" r="4.5" fill="#22d3ee"/>
+    <text x="1000" y="42" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8b949e">Jun 2025 – Sep 2026</text>
+  </g>
+  <g class="card" style="animation-delay:1.9s">
+    <rect x="820" y="104" width="360" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+    <path d="M992 104.5 L1000 95 L1008 104.5" fill="#161b22" stroke="#30363d"/>
+    <rect x="993" y="103" width="14" height="3" fill="#161b22"/>
+    <text x="844" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#e6edf3">Interstride</text>
+    <rect x="1086" y="125" width="72" height="22" rx="11" fill="#22d3ee" opacity=".15"/><text x="1122" y="140" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#22d3ee">LATEST</text>
+    <text x="844" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="url(#g)">Frontend Developer</text>
+    <text x="844" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e"><tspan fill="#22d3ee">▸</tspan> 4 role-based portals, 550+ universities</text><text x="844" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e"><tspan fill="#22d3ee">▸</tspan> ~40% faster for 250K+ students</text>
+  </g>
+</svg>
