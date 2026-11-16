@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hemant Patil — Software Engineer</title>
+  <desc id="desc">Software Engineer · frontend-focused. React · Next.js · TypeScript. Frontend architecture &amp; performance. Micro frontends at enterprise scale</desc>
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0891b2"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#eaeef2" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#0891b2" stop-opacity=".35"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#7c3aed" stop-opacity=".35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .caret{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .orb-a{animation:driftA 14s ease-in-out infinite alternate}
+    .orb-b{animation:driftB 18s ease-in-out infinite alternate}
+    @keyframes driftA{to{transform:translate(-160px,60px)}}
+    @keyframes driftB{to{transform:translate(140px,-50px)}}
+    .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+    .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .bar{animation:shine 6s linear infinite}
+    @keyframes shine{from{stroke-dashoffset:0}to{stroke-dashoffset:-400}}
+    
+      @keyframes w0{0%,0%{width:0px}10%,21.88%{width:566px}25%,100%{width:0px}}
+    
+      @keyframes c0{0%,0%{transform:translateX(0px)}10%,21.88%{transform:translateX(566px)}25%,100%{transform:translateX(0px)}}
+    #r0{animation:w0 16s steps(36) infinite}
+    #k0{animation:c0 16s steps(36) infinite}
+    @keyframes v0{0%,0%{opacity:0}0.01%,24.99%{opacity:1}25%,100%{opacity:0}}
+    #g0{opacity:0;animation:v0 16s linear infinite}
+    
+      @keyframes w1{0%,25%{width:0px}35%,46.88%{width:441px}50%,100%{width:0px}}
+    
+      @keyframes c1{0%,25%{transform:translateX(0px)}35%,46.88%{transform:translateX(441px)}50%,100%{transform:translateX(0px)}}
+    #r1{animation:w1 16s steps(28) infinite}
+    #k1{animation:c1 16s steps(28) infinite}
+    @keyframes v1{0%,25%{opacity:0}25.01%,49.99%{opacity:1}50%,100%{opacity:0}}
+    #g1{opacity:0;animation:v1 16s linear infinite}
+    
+      @keyframes w2{0%,50%{width:0px}60%,71.88%{width:550px}75%,100%{width:0px}}
+    
+      @keyframes c2{0%,50%{transform:translateX(0px)}60%,71.88%{transform:translateX(550px)}75%,100%{transform:translateX(0px)}}
+    #r2{animation:w2 16s steps(35) infinite}
+    #k2{animation:c2 16s steps(35) infinite}
+    @keyframes v2{0%,50%{opacity:0}50.01%,74.99%{opacity:1}75%,100%{opacity:0}}
+    #g2{opacity:0;animation:v2 16s linear infinite}
+    
+      @keyframes w3{0%,75%{width:0px}85%,96.88%{width:550px}100%,100%{width:0px}}
+    
+      @keyframes c3{0%,75%{transform:translateX(0px)}85%,96.88%{transform:translateX(550px)}100%,100%{transform:translateX(0px)}}
+    #r3{animation:w3 16s steps(35) infinite}
+    #k3{animation:c3 16s steps(35) infinite}
+    @keyframes v3{0%,75%{opacity:0}75.01%,99.99%{opacity:1}100%,100%{opacity:0}}
+    #g3{opacity:0;animation:v3 16s linear infinite}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}#g0{opacity:1!important}#r0{width:566px}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#ffffff"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle class="orb-a" cx="980" cy="70" r="240" fill="url(#orbA)"/>
+    <circle class="orb-b" cx="760" cy="300" r="260" fill="url(#orbB)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#d0d7de"/>
+
+  <g class="rise d1">
+    <text x="64" y="78" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#57606a">// hi, I'm</text>
+  </g>
+  <g class="rise d2">
+    <text x="61" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="800" fill="url(#grad)" letter-spacing="-1.5">Hemant Patil</text>
+  </g>
+  <g class="rise d3">
+    <text x="42" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#0891b2">›</text>
+    
+    <g id="g0">
+      <clipPath id="cp0"><rect id="r0" x="64" y="186" height="36" width="0"/></clipPath>
+      <text x="64" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#1f2328" clip-path="url(#cp0)">Software Engineer · frontend-focused</text>
+      <g id="k0"><rect class="caret" x="66" y="188" width="3" height="30" fill="#0891b2"/></g>
+    </g>
+    <g id="g1">
+      <clipPath id="cp1"><rect id="r1" x="64" y="186" height="36" width="0"/></clipPath>
+      <text x="64" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#1f2328" clip-path="url(#cp1)">React · Next.js · TypeScript</text>
+      <g id="k1"><rect class="caret" x="66" y="188" width="3" height="30" fill="#0891b2"/></g>
+    </g>
+    <g id="g2">
+      <clipPath id="cp2"><rect id="r2" x="64" y="186" height="36" width="0"/></clipPath>
+      <text x="64" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#1f2328" clip-path="url(#cp2)">Frontend architecture &amp; performance</text>
+      <g id="k2"><rect class="caret" x="66" y="188" width="3" height="30" fill="#0891b2"/></g>
+    </g>
+    <g id="g3">
+      <clipPath id="cp3"><rect id="r3" x="64" y="186" height="36" width="0"/></clipPath>
+      <text x="64" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="26" fill="#1f2328" clip-path="url(#cp3)">Micro frontends at enterprise scale</text>
+      <g id="k3"><rect class="caret" x="66" y="188" width="3" height="30" fill="#0891b2"/></g>
+    </g>
+    <line class="bar" x1="64" x2="424" y1="252" y2="252" stroke="url(#grad)" stroke-width="3" stroke-linecap="round" stroke-dasharray="120 40"/>
+    <text x="1136" y="252" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#57606a">📍 Pune, India  ·  ~5 yrs  ·  open to work</text>
+  </g>
+
+  <g class="rise d3"><g transform="translate(900,64)" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15">
+    <rect width="236" height="112" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <circle cx="18" cy="18" r="5" fill="#ff5f57"/><circle cx="36" cy="18" r="5" fill="#febc2e"/><circle cx="54" cy="18" r="5" fill="#28c840"/>
+    <text x="18" y="52" fill="#7c3aed">const</text><text x="70" y="52" fill="#1f2328">focus = [</text>
+    <text x="36" y="74" fill="#0891b2">"perf", "arch",</text>
+    <text x="36" y="96" fill="#0891b2">"DX"</text><text x="80" y="96" fill="#1f2328">];</text>
+  </g></g>
+</svg>
